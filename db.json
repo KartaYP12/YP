@@ -5,8 +5,8 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "https://www.instagram.com/karta_yp/?hl=en", "postId": 1 },
+    { "id": 2, "body": "tes", "postId": 1 }
   ],
   "profile": {
     "name": "KartaYP12"
